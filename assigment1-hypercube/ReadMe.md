@@ -10,4 +10,4 @@ Figure 1: A spinning hypercube (Source: [https://giphy.com/gifs/DPK6EgQsBoHKw](h
 
 **In this directory, thera are a .gif image and a matlab script.** 
 
-** This assignment is based on the Basic geometric transformations in 2-D and 3-D.** The materials are also in this directory: 2D and 3D transformation.
+**This assignment is based on the Basic geometric transformations in 2-D and 3-D.** The materials are also in this directory: 2D and 3D transformation.
